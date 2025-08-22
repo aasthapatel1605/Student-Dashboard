@@ -6,7 +6,7 @@
 
 html, body {
   font-family: 'Sansation Light', sans-serif;
-  background: linear-gradientto bottom, #00133a 0%, #01163f 40%, #000B20 70%, #466266 100%;
+  background: linear-gradient(to bottom, #00133a 0%, #01163f 40%, #000B20 70%, #466266 100%);
   overflow-x: hidden;
   color: white;
 }
